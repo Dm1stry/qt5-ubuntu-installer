@@ -4,16 +4,16 @@ Script needed if online installer is now working on your system for some reasons
 
 #### Download script or clone git repo to selected directory by running
 
-cd /path/to/your/directory/
+> cd /path/to/your/directory/
 
-git clone https://github.com/Dm1stry/qt5-ubuntu-installer.git
+> git clone https://github.com/Dm1stry/qt5-ubuntu-installer.git
 
 #### Then make it able to execute by running
 
-chmod +x install-qt5.sh
+> chmod +x install-qt5.sh
 
 #### And run with sudo
 
-sudo ./install-qt5.sh
+> sudo ./install-qt5.sh
 
 #### Enjoy using Qt5!
